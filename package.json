@@ -1,0 +1,8 @@
+{
+  "name": "react-json-stringify",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:grahamcrackers/react-json-stringify.git",
+  "author": "Graham Rogers",
+  "license": "MIT"
+}
